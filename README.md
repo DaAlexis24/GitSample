@@ -11,3 +11,6 @@ ESTADOS DE UN FICHERO:
 - workarea = cosas donde trabajo
 - stage/index area = sirve para elegir los ficheros que voy a commitear (git add) / Se puede eliminar con git rm --cached -r
 - repositorio = cosas que guardo
+
+GIT COMMIT
+Luego de usar "git add (.)" se usa "git commit -m (En comillas se detalla los ficheros que has subido y su importancia)" 
